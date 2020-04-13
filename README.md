@@ -1,11 +1,3 @@
-###About Me
-Kaushalendra Pratap Singh, I am 1st year engineering student and Cyber Security Enthusiast.
-##Social Media
-Instagram : https://www.instagram.com/alien_piyush/
-[Don't Exploit It :)]
-LinkedIn : https://www.linkedin.com/in/kaushalendra-pratap-singh-3aaab3136/
-
-
 ### SploitInstagram Bruter
 
 -This program will brute force any Instagram account you send it its way. Just give it a target, a password list and a mode then press enter and forget about it. No need to worry about anonymity when using this program, its highest priority is your anonymity, it only attacks when your identity is hidden.
@@ -13,8 +5,8 @@ LinkedIn : https://www.linkedin.com/in/kaushalendra-pratap-singh-3aaab3136/
 ### Requirements
 
 -   Python _v3.x.x_
--   ~~Kali Linux 2.0~~
--   ~~TOR~~
+-   Kali Linux (Latest Version)
+-   TOR (Proxy)
 
 ### Install Dependencies
 
