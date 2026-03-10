@@ -11,7 +11,6 @@
 ### Install Dependencies
 
 
-https://connect.thegatewaycorp.com/meeting/eyJpZCI6ICI2OWVhMmYiLCAicm9sZSI6ICJhdHQifQ==
 
 ```
 pip3 install -r requirements.txt
